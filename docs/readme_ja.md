@@ -94,7 +94,7 @@
 `?username=` の値は、あなたの GitHub アカウントのユーザー名に変更してください。
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 ```
 
 _Note: カードに表示されるランクはユーザの統計情報に基づいて計算されています。詳しくは、[src/calculateRank.js](../src/calculateRank.js)をご覧ください。_
@@ -106,7 +106,7 @@ _Note: カードに表示されるランクはユーザの統計情報に基づ�
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&hide=contribs,prs)
 ```
 
 ### プライベートリポジトリへのコミットをカウントする
@@ -118,7 +118,7 @@ _Note: このプロジェクトを自分でデプロイしている場合、デ�
 > Options: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&count_private=true)
 ```
 
 ### アイコンを表示する
@@ -126,7 +126,7 @@ _Note: このプロジェクトを自分でデプロイしている場合、デ�
 クエリパラメータ `?show_icons=true` を使用することで、アイコンの表示が有効になります。
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true)
 ```
 
 ### テーマの変更
@@ -136,7 +136,7 @@ _Note: このプロジェクトを自分でデプロイしている場合、デ�
 `?theme=THEME_NAME` は以下のように使います。
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
 ```
 
 #### 内蔵テーマの一覧
@@ -217,16 +217,16 @@ GitHub extra pins を使うと、GitHub の readme プロフィールを使っ�
 エンドポイント: `api/pin?username=ebr4&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
+[![Readme Card](https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### デモ
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
+[![Readme Card](https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
 
 リポジトリのオーナーのユーザー名を含める場合は、show_owner 変数を使用します。
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats&show_owner=true)](https://github.com/ebr4/github-readme-stats)
+[![Readme Card](https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats&show_owner=true)](https://github.com/ebr4/github-readme-stats)
 
 # Top Languages Card
 
@@ -241,7 +241,7 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 エンドポイント: `api/top-langs?username=ebr4`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### 特定の言語を隠す
@@ -249,7 +249,7 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 クエリパラメータ `?hide=language1,language2` 使用することで、特定の言語を非表示にすることができます。
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&hide=javascript,html)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&hide=javascript,html)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### レイアウトをコンパクトにする
@@ -257,16 +257,16 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 クエリパラメータ `&layout=compact` を使用することで、カードのデザインを変更することができます。
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### デモ
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 
 - Compact layout の場合
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
 
 ---
 
@@ -274,41 +274,41 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 
 - デフォルト
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4)
 
 - 特定の統計情報を隠す
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&hide=contribs,issues)
 
 - アイコンを表示する
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&hide=issues&show_icons=true)
 
 - コミット数の総数をカウントする
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&include_all_commits=true)
 
 - テーマの変更
 
 任意の[テーマ](#themes)を選択できます。
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
 
 - グラデーション
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - stats card のカスタマイズ
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ebr4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api/?username=ebr4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - repo card のカスタマイズ
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ebr4&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats-ten-drab-34.vercel.app/api/pin?username=ebr4&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 
 ---
 
@@ -318,10 +318,10 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 
 ```html
 <a href="https://github.com/ebr4/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/ebr4/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=convoychat" />
 </a>
 ```
 
@@ -329,7 +329,7 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 
 #### [@codeSTACKr によるチュートリアルはこちら](https://youtu.be/n6d4KHSKqGk?t=107)
 
-GitHub API は 1 時間あたり 5k リクエストしか受け付けていないので、私の `https://github-readme-stats.vercel.app/api` がレートリミッターを超えてしまう可能性があります。自分の Vercel サーバーでホストしているのであれば、何も心配する必要はありません。デプロイボタンをクリックして始めましょう！
+GitHub API は 1 時間あたり 5k リクエストしか受け付けていないので、私の `https://github-readme-stats-ten-drab-34.vercel.app/api` がレートリミッターを超えてしまう可能性があります。自分の Vercel サーバーでホストしているのであれば、何も心配する必要はありません。デプロイボタンをクリックして始めましょう！
 
 NOTE: [#58](https://github.com/ebr4/github-readme-stats/pull/58) 以降は 5k 以上のリクエストに対応できるようになり、ダウンタイムの問題もなくなりました :smile:
 

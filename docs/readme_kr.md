@@ -98,7 +98,7 @@
 `?username=` 속성의 값을 GitHub 계정의 사용자 명(닉네임)으로 바꿔주세요.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 ```
 
 _참고:_
@@ -117,7 +117,7 @@ _[src/calculateRank.js](../src/calculateRank.js) 에서 수행되는 계산 작�
 > 사용 가능한 항목들: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&hide=contribs,prs)
 ```
 
 ### 총 커밋 수에 비공개 기여도 (private contribs) 수 추가하기
@@ -129,7 +129,7 @@ _참고: 프로젝트를 직접 배포하신 경우, 비공개 기여도는 기�
 > 예시: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&count_private=true)
 ```
 
 ### 아이콘 표시하기
@@ -137,7 +137,7 @@ _참고: 프로젝트를 직접 배포하신 경우, 비공개 기여도는 기�
 아이콘 항목을 활성화 하기 위해선, 다음과 같이 `show_icons=true` 속성을 추가해주세요.
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true)
 ```
 
 ### 테마 설정하기
@@ -147,7 +147,7 @@ _참고: 프로젝트를 직접 배포하신 경우, 비공개 기여도는 기�
 다음과 같이 `?theme=THEME_NAME` 속성을 이용해주세요.
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
 ```
 
 #### 지원하는 내장 테마 목록
@@ -245,16 +245,16 @@ GitHub 저장소 여분 핀을 이용하면, 6개 이상의 저장소 핀을 여
 엔드 포인트: `api/pin?username=ebr4&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
+[![Readme Card](https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### 미리보기
 
-[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
+[![GitHub 저장소 핀 카드](https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
 
 [show_owner](#커스터마이징) 속성을 통해 저장소 소유자의 닉네임 표시 여부를 설정할 수 있어요.
 
-[![GitHub 저장소 핀 카드](https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats&show_owner=true)](https://github.com/ebr4/github-readme-stats)
+[![GitHub 저장소 핀 카드](https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats&show_owner=true)](https://github.com/ebr4/github-readme-stats)
 
 # 언어 사용량 통계
 
@@ -271,7 +271,7 @@ _참고:
 엔드 포인트: `api/top-langs?username=ebr4`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### 통계에서 제외할 저장소 지정하기
@@ -279,7 +279,7 @@ _참고:
 `?exclude_repo=repo1,repo2` 속성을 통해 특정 저장소를 제외할 수 있어요.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&exclude_repo=github-readme-stats,ebr4.github.io)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&exclude_repo=github-readme-stats,ebr4.github.io)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### 통계에서 특정 언어 제외하기
@@ -287,7 +287,7 @@ _참고:
 `?hide=language1,language2` 속성을 통해 특정 언어를 제외할 수 있어요.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&hide=javascript,html)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&hide=javascript,html)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### 표시할 언어 수 지정하기
@@ -295,7 +295,7 @@ _참고:
 `&langs_count=` 속성을 통해 카드에 표시할 언어의 수를 지정할 수 있어요. (1-10 사이, 기본 값 : 5)
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&langs_count=8)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&langs_count=8)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### 컴택트한 카드 레이아웃 설정하기
@@ -303,34 +303,34 @@ _참고:
 `&layout=compact` 속성을 통해 카드의 디자인을 변경할 수 있어요.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### 미리보기
 
-[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![언어 사용량 통계](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 
 - 컴팩트한 레이아웃
 
-[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
+[![언어 사용량 통계](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
 
 # Wakatime 주간 통계
 
 `?username=` 속성의 값을 [Wakatime](https://wakatime.com) 계정의 사용자 명(닉네임)으로 바꿔주세요.
 
 ```md
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### 미리보기
 
-[![Harlok 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
+[![Harlok 님의 wakatime 통계](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
 
-[![Harlok 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_progress=true)](https://github.com/ebr4/github-readme-stats)
+[![Harlok 님의 wakatime 통계](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ffflabs&hide_progress=true)](https://github.com/ebr4/github-readme-stats)
 
 - 컴팩트한 레이아웃
 
-[![Harlok 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/ebr4/github-readme-stats)
+[![Harlok 님의 wakatime 통계](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/ebr4/github-readme-stats)
 
 ---
 
@@ -338,49 +338,49 @@ _참고:
 
 - 기본
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=ebr4)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4)
 
 - 특정 통계 내용 숨김
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=ebr4&hide=contribs,issues)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&hide=contribs,issues)
 
 - 아이콘 표시
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=ebr4&hide=issues&show_icons=true)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&hide=issues&show_icons=true)
 
 - 전체 커밋 포함 시
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=ebr4&include_all_commits=true)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&include_all_commits=true)
 
 - 테마들
 
 [내장 테마](#themes) 에서 직접 선택해보세요
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
 
 - 그라데이션 주기
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=ebr4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - 통계 카드 커스터마이징하기
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api/?username=ebr4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats-ten-drab-34.vercel.app/api/?username=ebr4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - 언어 사용 지역 설정하기
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api/?username=ebr4&locale=kr)
+![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats-ten-drab-34.vercel.app/api/?username=ebr4&locale=kr)
 
 - 저장소 핀 커스터마이징하기
 
-![Anurag 님의 GitHub 저장소 핀](https://github-readme-stats.vercel.app/api/pin?username=ebr4&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Anurag 님의 GitHub 저장소 핀](https://github-readme-stats-ten-drab-34.vercel.app/api/pin?username=ebr4&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - 언어 사용량 통계
 
-[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![언어 사용량 통계](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 
 - Wakatime 카드
 
-[![Harlok 님의 Wakatime 카드](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
+[![Harlok 님의 Wakatime 카드](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
 
 ---
 
@@ -392,10 +392,10 @@ _참고:
 
 ```html
 <a href="https://github.com/ebr4/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/ebr4/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=convoychat" />
 </a>
 ```
 
@@ -404,7 +404,7 @@ _참고:
 #### [@codeSTACKr 님의 튜토리얼 영상 보기](https://youtu.be/n6d4KHSKqGk?t=107)
 
 GitHub API 가 시간 당 요청 개수를 5,000회로 제한한 뒤로,
-저의 `https://github-readme-stats.vercel.app/api` 가 사용량 제한에 걸릴 위험이 생겼어요.
+저의 `https://github-readme-stats-ten-drab-34.vercel.app/api` 가 사용량 제한에 걸릴 위험이 생겼어요.
 
 만약, 여러분이 Vercel server 에서 직접 호스트 하신다면, 걱정하실 일은 없을거에요.
 

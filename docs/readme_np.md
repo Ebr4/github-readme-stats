@@ -97,7 +97,7 @@ Copy-paste this into your markdown content, and that's it. Simple!
 Change the `?username=` value to your GitHub's username.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 ```
 
 _Note: Ranks are calculated based on user's stats, see [src/calculateRank.js](./src/calculateRank.js)_
@@ -109,7 +109,7 @@ To hide any specific stats, you can pass a query parameter `?hide=` with comma-s
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&hide=contribs,prs)
 ```
 
 ### जोड्नु होस् निजी टोटल  योगदान
@@ -121,7 +121,7 @@ _Note: If you are deploying this project yourself, the private contributions wil
 > Options: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&count_private=true)
 ```
 
 ### देखाउनु होस् इकोन 
@@ -129,7 +129,7 @@ _Note: If you are deploying this project yourself, the private contributions wil
 To enable icons, you can pass `show_icons=true` in the query param, like so:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true)
 ```
 
 ### विषयवस्तुहरू
@@ -139,7 +139,7 @@ With inbuilt themes, you can customize the look of the card without doing any [m
 Use `?theme=THEME_NAME` parameter like so :-
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
 ```
 
 #### सबै इनबिल्ट विषयवस्तु :-
@@ -229,16 +229,16 @@ GitHub फाल्तु पिनले तपाइँलाए GitHub री
 Endpoint: `api/pin?username=ebr4&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
+[![Readme Card](https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### डेमो 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
+[![Readme Card](https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats&show_owner=true)](https://github.com/ebr4/github-readme-stats)
+[![Readme Card](https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats&show_owner=true)](https://github.com/ebr4/github-readme-stats)
 
 # टोप भाषा कार्ड 
 
@@ -252,7 +252,7 @@ _NOTE: टोप भाषाहरुले आफ्नो सिपलाए 
 Endpoint: `api/top-langs?username=ebr4`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### Exclude individual repositories
@@ -260,7 +260,7 @@ Endpoint: `api/top-langs?username=ebr4`
 You can use `?exclude_repo=repo1,repo2` parameter to exclude individual repositories.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&exclude_repo=github-readme-stats,ebr4.github.io)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&exclude_repo=github-readme-stats,ebr4.github.io)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### कुनै भाषा चुपौनॆ तरिका 
@@ -268,7 +268,7 @@ You can use `?exclude_repo=repo1,repo2` parameter to exclude individual reposito
 You can use `?hide=language1,language2` parameter to hide individual languages.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&hide=javascript,html)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&hide=javascript,html)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### धेरॆ भाषाहरु हेर्नको लागि 
@@ -276,7 +276,7 @@ You can use `?hide=language1,language2` parameter to hide individual languages.
 You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 10 (inclusive), and the default is 5.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&langs_count=8)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&langs_count=8)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### कम्प्याक्ट भाषा कार्ड ळयोउत 
@@ -284,30 +284,30 @@ You can use the `&langs_count=` option to increase or decrease the number of lan
 तपाइले `&layout=compact` ओप्तिओनपनि  कार्ड देसिग्न को लागि परहयोग गर्न सक्नु हुन्क्ष 
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### डेमो 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 
 - Compact layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
 
 # वाका समय वीक स्तट्स 
 
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ```md
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ###  डेमो
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_progress=true)](https://github.com/ebr4/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ffflabs&hide_progress=true)](https://github.com/ebr4/github-readme-stats)
 
 ---
 
@@ -315,49 +315,49 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - देफौल्ट 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4)
 
 - हिदिंग स्पेचific स्तट्स 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&hide=contribs,issues)
 
 - इकोनहरु शो गर्ने 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&hide=issues&show_icons=true)
 
 - सबै कमितहरु 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&include_all_commits=true)
 
 - थेम्स 
 
 कुनै एउटा चोज गर्नुस [default themes](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
 
 - घ्रदिएन्त 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - स्तत्स कार्ड लाए कस्तोमेज गर्ने    
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ebr4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api/?username=ebr4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - सेत्तिंग  कार्ड  लोचले 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ebr4&locale=es)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api/?username=ebr4&locale=es)
 
 - रेपो कार्डलाई एडित गर्नु 
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ebr4&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats-ten-drab-34.vercel.app/api/pin?username=ebr4&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - टोप भाषा 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 
 - वक समय कार्ड 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
 
 ---
 
@@ -367,10 +367,10 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ```html
 <a href="https://github.com/ebr4/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/ebr4/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=convoychat" />
 </a>
 ```
 
@@ -379,7 +379,7 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 #### [Check Out Step By Step Video Tutorial By @codeSTACKr](https://youtu.be/n6d4KHSKqGk?t=107)
 
 गितहब को अपिएले पाच हजार रेक़ुएस्त प्रति घण्टा मात्र मिल्क्ष ।  मेरो 
- `https://github-readme-stats.vercel.app/api` प्रोजेक्ट मा रेत्  लिमिट हुन सक्क्ष । तर तपाइले आफ्नै वेर्चेल सेर्वेर मा होस्ट गर्नु बाको छ बने यो प्रोब्लेम हुदैन।  
+ `https://github-readme-stats-ten-drab-34.vercel.app/api` प्रोजेक्ट मा रेत्  लिमिट हुन सक्क्ष । तर तपाइले आफ्नै वेर्चेल सेर्वेर मा होस्ट गर्नु बाको छ बने यो प्रोब्लेम हुदैन।  
  होस्ट गर्ने तरिका यस पकारका षन ।
 
 NOTE: Since [#58](https://github.com/ebr4/github-readme-stats/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D

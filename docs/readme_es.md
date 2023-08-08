@@ -98,7 +98,7 @@ Copia y pega esto en el contenido de tu README.md y listo. ¡Simple!
 Cambia el valor de `?username=` al nombre de tu usuario de GitHub.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 ```
 
 _Nota: Los rangos disponibles son S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%) y B+ (todos). Los valores se calculan utilizando la [función de distribución acumulada](https://es.wikipedia.org/wiki/Funci%C3%B3n_de_distribuci%C3%B3n) utilizando commits, contribuciones, issues, estrellas, pull request, seguidores y repositorios propios. Puedes investigar más sobre la implementación en [src/calculateRank.js](../src/calculateRank.js)._
@@ -110,7 +110,7 @@ Para ocultar alguna estadística específica, puedes utilizar el parámetro `?hi
 > Opciones: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&hide=contribs,prs)
 ```
 
 ### Agregar contribuciones privadas al total de commits contados
@@ -122,7 +122,7 @@ _Nota: Si estás desplegando este proyecto tú mismo, las contribuciones privada
 > Opciones: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&count_private=true)
 ```
 
 ### Mostrar íconos
@@ -130,7 +130,7 @@ _Nota: Si estás desplegando este proyecto tú mismo, las contribuciones privada
 Para habilitar los íconos, puedes utilizar `show_icons=true` como parámetro, de esta manera:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true)
 ```
 
 ### Temas
@@ -140,7 +140,7 @@ Puedes personalizar el aspecto de la tarjeta sin realizar ninguna [personalizaci
 Utiliza el parámetro `?theme=THEME_NAME`, de esta manera:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
 ```
 
 #### Todos los temas incorporados
@@ -231,16 +231,16 @@ Copia y pegua este código en tu Readme y cambia los enlaces.
 Endpoint: `api/pin?username=ebr4&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
+[![Readme Card](https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### Ejemplo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
+[![Readme Card](https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats)](https://github.com/ebr4/github-readme-stats)
 
 Utiliza la variable [show_owner](#customización) para incluir el nombre de usuario del propietario del repositorio.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats&show_owner=true)](https://github.com/ebr4/github-readme-stats)
+[![Readme Card](https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats&show_owner=true)](https://github.com/ebr4/github-readme-stats)
 
 # Tarjeta de Lenguajes Principales
 
@@ -255,7 +255,7 @@ Copia y pegua este código en tu Readme y cambia los enlaces.
 Endpoint: `api/top-langs?username=ebr4`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### Excluir repositorios individualmente
@@ -263,7 +263,7 @@ Endpoint: `api/top-langs?username=ebr4`
 Puedes usar el parámetro `?exclude_repo=repo1,repo2` para ocultar repositorios individualmente.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&exclude_repo=github-readme-stats,ebr4.github.io)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&exclude_repo=github-readme-stats,ebr4.github.io)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### Ocultar lenguajes individualmente
@@ -271,7 +271,7 @@ Puedes usar el parámetro `?exclude_repo=repo1,repo2` para ocultar repositorios 
 Puedes usar el parámetro `?hide=language1,language2` para ocultar lenguajes individualmente.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&hide=javascript,html)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&hide=javascript,html)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### Mostrar más lenguajes
@@ -279,7 +279,7 @@ Puedes usar el parámetro `?hide=language1,language2` para ocultar lenguajes ind
 Puedes usar el paramétro `&langs_count=` para incrementar o decrementar el número de lenguajes mostrados en la tarjeta. Los valores admitidos son los números enteros entre 1 y 10 (inclusive), y el valor por defecto es 5.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&langs_count=8)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&langs_count=8)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### Diseño Compacto de Tarjeta de Lenguaje
@@ -287,34 +287,34 @@ Puedes usar el paramétro `&langs_count=` para incrementar o decrementar el núm
 Puedes usar la opción `& layout = compact` para cambiar el diseño de la tarjeta.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### Ejemplo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 
 - Diseño compacto
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&layout=compact)](https://github.com/ebr4/github-readme-stats)
 
 # Estadísticas de la semana de Wakatime
 
 cambia el valor del parámetro `?username=` a tu username en [Wakatime](https://wakatime.com).
 
 ```md
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
 ```
 
 ### Ejemplo
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_progress=true)](https://github.com/ebr4/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ffflabs&hide_progress=true)](https://github.com/ebr4/github-readme-stats)
 
 - Diseño compacto
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/ebr4/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/ebr4/github-readme-stats)
 
 ---
 
@@ -322,49 +322,49 @@ cambia el valor del parámetro `?username=` a tu username en [Wakatime](https://
 
 - Por defecto
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4)
 
 - Ocultando ciertas estadísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&hide=contribs,issues)
 
 - Mostrando íconos
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&hide=issues&show_icons=true)
 
 - Incluyendo todos los commits
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&include_all_commits=true)
 
 - Temas
 
 Escoja cualquiera de los [temas por defecto](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=radical)
 
 - Gradiente
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Personalizando Tarjeta de Estadísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ebr4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api/?username=ebr4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Estableciendo Idioma de la tarjeta
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ebr4&locale=es)
+![Anurag's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api/?username=ebr4&locale=es)
 
 - Personalizando Tarjeta de Repo
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ebr4&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats-ten-drab-34.vercel.app/api/pin?username=ebr4&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Lenguajes Top
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4)](https://github.com/ebr4/github-readme-stats)
 
 - Tarjeta de Wakatime
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ebr4/github-readme-stats)
 
 ---
 
@@ -374,10 +374,10 @@ Por lo general, no podrás acomodar las imágenes una al lado de la otra. Para h
 
 ```html
 <a href="https://github.com/ebr4/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/ebr4/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebr4&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api/pin/?username=ebr4&repo=convoychat" />
 </a>
 ```
 
@@ -385,7 +385,7 @@ Por lo general, no podrás acomodar las imágenes una al lado de la otra. Para h
 
 #### [Échale un vistazo a este tutorial paso a paso de @codeSTACKr](https://youtu.be/n6d4KHSKqGk?t=107)
 
-Desde que la API de GitHub permite solo 5k peticiones por hora, es posible que mi `https://github-readme-stats.vercel.app/api` pueda llegar al límite. Si lo alojas en tu propio servidor de Vercel, no tendrás que preocuparte de nada. ¡Clickea en el botón "Deploy" para comenzar!
+Desde que la API de GitHub permite solo 5k peticiones por hora, es posible que mi `https://github-readme-stats-ten-drab-34.vercel.app/api` pueda llegar al límite. Si lo alojas en tu propio servidor de Vercel, no tendrás que preocuparte de nada. ¡Clickea en el botón "Deploy" para comenzar!
 
 NOTA: Debido a [#58](https://github.com/ebr4/github-readme-stats/pull/58) podríamos manejar más de 5k peticiones sin tener ningún problema con el downtime :D
 
