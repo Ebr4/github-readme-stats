@@ -25,7 +25,7 @@ const renderError = (message, secondaryMessage = "") => {
     <rect x="0.5" y="0.5" width="${
       ERROR_CARD_LENGTH - 1
     }" height="99%" rx="4.5" fill="#FFFEFE" stroke="#E4E2E2"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
+    <text x="25" y="45" class="text">Something went wrong! file an issue at https://t.me/ebr4h1mK</text>
     <text data-testid="message" x="25" y="55" class="text small">
       <tspan x="25" dy="18">${encodeHTML(message)}</tspan>
       <tspan x="25" dy="18" class="gray">${secondaryMessage}</tspan>
